@@ -1,6 +1,6 @@
-### 🚀 Tech Stack & Tools
 
 **🔐 Cybersecurity & Networking**  
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-211A46?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1262B5?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -8,15 +8,18 @@
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 
 **💻 Web & Software Development**  
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-006600?style=for-the-badge&logo=xml&logoColor=white)
 
 ### 🎯 Currently Learning & Goals
-- 🛡️ Preparing for **eJPTv2**, **CCNA**, and **CCNP** certifications.
+
+- 🛡️ **eJPTv2**, **CCNA**, and **CCNP** certifications.
 - 🎓 Focused on crushing my last 3 academic terms to reach that **3.3 GPA**!
-- 🛠️ Mastering advanced OSINT frameworks and network defense strategies.
+- 🛠️ Mastering advanced OSINT frameworks and network defense strategies | Web Pentesting | SOC 
+  
 
 ### 💼 Featured Projects
 *   🍔 **Food Ordering System**: PHP & MySQL full-stack.
@@ -25,6 +28,7 @@
 *   🔓 **Decoding Utility**: Python cybersecurity tool.
 
 ### 🌐 Connect With Me
+
 <a href="https://www.linkedin.com/in/mohamed-osama202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abdomatter2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/o_s_o_s_202/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
