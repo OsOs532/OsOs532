@@ -19,7 +19,7 @@
 | **Category** | **Tools & Technologies** |
 | :--- | :--- |
 | **🛡️ Cyber Security** | ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-211A46?style=flat-square&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-1262B5?style=flat-square&logo=metasploit&logoColor=white) |
-| **💻 Development** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![XML](https://img.shields.io/badge/-XML-006600?style=flat-square&logo=xml&logoColor=white) |
+| **💻 Development** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![XML](https://img.shields.io/badge/-XML-006600?style=flat-square&logo=xml&logoColor=white) |
 | **🌐 Networking** | ![Cisco](https://img.shields.io/badge/-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
 
 <br/>
