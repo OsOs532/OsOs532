@@ -47,10 +47,6 @@
 <a href="mailto:abdomatter2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/o_s_o_s_202/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-### ⚡ Fun Facts
-- 🎮 Huge fan of PC horror games—always up for a round of *Pacify* or *Poppy Playtime*.
-- 🎵 When I'm not writing code or testing networks, I'm experimenting with AI to produce Mahraganat beats and music!
-
 <br/>
 
 ---
