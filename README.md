@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,java,php,mysql,linux,kali,burpsuite,wireshark,git,vscode=12" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,java,php,mysql,linux,kali,BurpSuite,cisco,metasploit,wireshark,git,vscode" />
 
 </div>
 
