@@ -78,8 +78,7 @@
 
 ### 🛠️ Cyber & Code Skills Mastery
 <div align="center">
-  <!-- هنا بنوضح التوازن بين السيكيورتي والديفلوبمنت -->
-  <img src="https://skillicons.dev/icons?i=py,java,php,mysql,linux,kali,bash,cisco,metasploit,wireshark,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,java,php,burpsuite,wireshark,linux,kali,apple,git,vscode" />
 </div>
 
 <br/>
