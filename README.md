@@ -54,30 +54,41 @@
 
 ### 📊 GitHub Activity & Stats
 
+### 🛡️ Security & Development Overview
+
 <div align="center">
   <table border="0">
     <tr>
-      <!-- كارت الإحصائيات العامة -->
+      <!-- كارت إحصائيات الحساب العام -->
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=OsOs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=ff3131&icon_color=00f7ff" alt="GitHub Stats" height="180px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=OsOs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff3131&icon_color=00f7ff&include_all_commits=true" alt="Cyber Stats" height="180px"/>
       </td>
-      <!-- كارت اللغات الأكثر استخداماً -->
+      <!-- كارت يوضح إنك مهتم بالسيكيورتي والديفلوبمنت -->
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsOs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff3131&langs_count=8" alt="Top Languages" height="180px"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsOs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff3131&langs_count=6&hide=c%2B%2B,c" alt="Languages" height="180px"/>
       </td>
     </tr>
   </table>
 
-  <!-- مخطط المساهمات السنوي (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsOs&theme=tokyonight&hide_border=true&background=0D1117&ring=ff3131&fire=ff3131&currStreakLabel=00f7ff" alt="GitHub Streak" width="95%"/>
+  <!-- كارت يوضح مدى نشاطك (الاستمرارية في العمل) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsOs&theme=tokyonight&hide_border=true&background=0D1117&ring=ff3131&fire=ff3131&sideLabels=00f7ff" alt="Cyber Activity Streak" width="95%"/>
 </div>
 
 <br/>
 
-### 🛠️ Contribution Graph
+### 🛠️ Cyber & Code Skills Mastery
+<div align="center">
+  <!-- هنا بنوضح التوازن بين السيكيورتي والديفلوبمنت -->
+  <img src="https://skillicons.dev/icons?i=py,java,php,mysql,linux,kali,bash,cisco,metasploit,wireshark,git,vscode" />
+</div>
+
+<br/>
+
+### 📈 Weekly Development Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsOs&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=ff3131" width="95%" />
 </div>
+
 # 👨‍💻 About Me
 ```js
 const OsOs = {
