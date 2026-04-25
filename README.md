@@ -22,7 +22,7 @@
 
 <br/>
 
-  <img src="https://skillicons.dev/icons?i=py,java  ,php  ,mysql  ,linux  ,kali  ,BurpSuite  ,cisco  ,metasploit  ,wireshark  ,git  ,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,java,php,mysql,linux,kali,BurpSuite,cisco,metasploit,wireshark,git,vscode" />
 
 </div>
 
