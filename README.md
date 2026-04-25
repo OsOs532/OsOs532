@@ -79,13 +79,6 @@
 
 <br/>
 
-### 🛠️ Cyber & Code Skills Mastery
-<div align="center">
-  <!-- هنا بنوضح التوازن بين السيكيورتي والديفلوبمنت -->
-  <img src="https://skillicons.dev/icons?i=py,java,php,mysql,linux,kali,BurpSuite,cisco,metasploit,wireshark,git,vscode" />
-</div>
-
-<br/>
 
 ### 📈 Weekly Development Activity
 <div align="center">
