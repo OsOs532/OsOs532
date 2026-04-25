@@ -55,20 +55,29 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <!-- كارت الإحصائيات -->
-  <img src="https://github-readme-stats.vercel.app/api?username=OsOs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Osama's GitHub stats" height="192px"/>
-  <!-- كارت اللغات اللي بتستخدمها -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsOs&layout=compact&theme=tokyonight&hide_border=true&bg_color=تفضل الكود كاملًا ومعدلًا بالبيانات التي طلبتها، مع إضافة تأثير الكتابة المتحرك على اسمك، وتنسيق المشاريع لتظهر كما في المثال الذي أرسلته. هذا البروفايل يجمع بين احترافية التصميم وإظهار تخصصك المزدوج بشكل قوي.
-```markdown
-<!-- أنيميشن متحرك لاسمك ومجالك -->
-<div align="center">
-  <a href="[https://github.com/OsOs](https://github.com/OsOs)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+أ](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+أ)ُسَامَة+(Os+Os)+👋;Computer+Science+Student;Cybersecurity+Enthusiast;Software+Engineering" alt="Typing SVG" />
-  </a>
+  <table border="0">
+    <tr>
+      <!-- كارت الإحصائيات العامة -->
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=OsOs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=ff3131&icon_color=00f7ff" alt="GitHub Stats" height="180px"/>
+      </td>
+      <!-- كارت اللغات الأكثر استخداماً -->
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsOs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff3131&langs_count=8" alt="Top Languages" height="180px"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- مخطط المساهمات السنوي (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsOs&theme=tokyonight&hide_border=true&background=0D1117&ring=ff3131&fire=ff3131&currStreakLabel=00f7ff" alt="GitHub Streak" width="95%"/>
 </div>
 
 <br/>
 
+### 🛠️ Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsOs&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=ff3131" width="95%" />
+</div>
 # 👨‍💻 About Me
 ```js
 const OsOs = {
