@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- أولاً: نص الترحيب المتحرك (باللون الأحمر) -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Hi+I'm+Os+Os+👋;Cybersecurity+Student;Ethical+Hacker+In+Training;Securing+The+Digital+World+🛡️" />
 
 <br>
 
-<!-- ثانياً: صورة الهكر -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ29mJmN0PWc/YmZOBDYBcmWK4/giphy.gif" width="400"/>
 
 </div>
@@ -59,18 +57,15 @@
 <div align="center">
   <table border="0">
     <tr>
-      <!-- كارت إحصائيات الحساب العام -->
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=OsOs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff3131&icon_color=00f7ff&include_all_commits=true" alt="Cyber Stats" height="180px"/>
       </td>
-      <!-- كارت يوضح إنك مهتم بالسيكيورتي والديفلوبمنت -->
       <td width="50%" align="center">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsOs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff3131&langs_count=6&hide=c%2B%2B,c" alt="Languages" height="180px"/>
       </td>
     </tr>
   </table>
 
-  <!-- كارت يوضح مدى نشاطك (الاستمرارية في العمل) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsOs&theme=tokyonight&hide_border=true&background=0D1117&ring=ff3131&fire=ff3131&sideLabels=00f7ff" alt="Cyber Activity Streak" width="95%"/>
 </div>
 
